@@ -1,0 +1,51 @@
+##
+## Rules for SimpleBrain
+#
+# These rules have been generated using ChatGPT:
+# https://chatgpt.com/share/678efbb6-09b0-8002-b956-59fcce686777
+#
+
+message,response
+*hello*,Hello! Did you know honey never spoils? Archaeologists have found pots of honey in ancient tombs that are over 3000 years old!
+*hi*,Hi there! Here's a fun fact: Octopuses have three hearts!
+*hey*,Hey! Did you know that a group of flamingos is called a "flamboyance"?
+*how are you*,I'm doing great! Did you know that bananas are berries! But strawberries aren't?
+*what's up*,Not much! Did you know that wombat poop is cube-shaped?
+*good morning*,Good morning! Did you know the Eiffel Tower can grow over 6 inches taller during summer due to heat expansion?
+*good evening*,Good evening! Here's a fun fact: A bolt of lightning is five times hotter than the surface of the sun.
+*good night*,Good night! Did you know sharks existed before trees?
+*hi bot*,Hi there! Did you know sloths can hold their breath longer than dolphins can?
+*howdy*,Howdy! Did you know that goats have rectangular pupils?
+
+*hello*, Hello! I can tell you some fun facts!
+*hello*, Hi there! Would you like to here some fun facts?
+*hello*, Greetings! Did you know that I say fun facts!
+*hello*, Hello! I can say some facts about coding!
+*hello*, Hi! I can say some fun facts about animals!
+*hello*, Hello there! Would you like to see some fun facts about mammals?
+*hello*, Hey! Would you like to hear some fun facts about food?
+*hello*, Hi! I say fun facts!
+*hello*, Greetings! fun fact: I say fun facts!
+*hello*, Hello! I say fun facts about a bunch of different things!
+
+*what is trivia*,Trivia is small bits of information that are often surprising!
+*tell me a fact*,Sure! Did you know the longest hiccuping spree lasted for 68 years?
+*share a fun fact*,Of course! Did you know that octopuses have nine brains?
+*random fact*,Here’s one: A cow-bison hybrid is called a "beefalo."
+*trivia please*,Sure thing! Did you know apples float because they are 25% air?
+*give me trivia*,Alright! Did you know koalas have fingerprints that are nearly indistinguishable from humans?
+*educate me*,Happy to help! Did you know humans share about 60% of their DNA with bananas?
+*tell me something cool*,Here’s a cool fact: The inventor of the frisbee was turned into a frisbee after he died.
+*fact time*,You got it! Did you know the dot over a lowercase "i" or "j" is called a "tittle"?
+*learn something*,Alright! Did you know an octopus has blue blood because it contains copper?
+
+*goodbye*,Goodbye! Here’s one last fact: The word "goodbye" comes from "God be with ye."
+*bye*,Bye! Did you know that the world's smallest reptile was discovered in 2021?
+*see you*,See you later! Did you know a bolt of lightning contains enough energy to toast 100K slices of bread?
+*farewell*,Farewell! Did you know that you can't hum while holding your nose closed?
+*take care*,Take care! Did you know there’s only one letter that doesn’t appear in any U.S. state name? It’s "Q."
+*later*,Later! Did you know octopuses can taste with their arms?
+*have a nice day*,Thanks, you too! Fun fact: Penguins propose to their mates with pebbles.
+*see you later*,See you later! Did you know the inventor of the microwave got the idea after a chocolate bar melted in his pocket?
+*peace*,Peace! Did you know an eagle can kill a young deer and fly away with it?
+*adios*,Adios! Did you know spiders can’t physically chew their food?

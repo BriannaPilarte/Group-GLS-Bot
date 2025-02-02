@@ -1,0 +1,74 @@
+##
+## Rules for SimpleBrain
+#
+# These rules have been generated using ChatGPT:
+# https://chatgpt.com/share/678f0123-7724-8002-b75e-60a51ba6dac9
+#
+message,response
+*hello*, Hi there! I can help you learn facts about penguins!
+*hello*, Hi there! Would you like to here some fun facts?
+*hi*, Hello! I can say some facts about coding!
+*hi*, Hi! fun fact: I say fun facts!
+*hey*, Hey there! I say fun facts about a bunch of different things!
+*good morning*, Good morning! Ready to hear some fun facts?
+
+*what is trivia*,Trivia is small bits of information that are often surprising!
+*tell me a fact*,Sure! Did you know the longest hiccuping spree lasted for 68 years?
+*share a fun fact*,Of course! Did you know that octopuses have nine brains?
+*random fact*,Here’s one: A cow-bison hybrid is called a "beefalo."
+*trivia please*,Sure thing! Did you know apples float because they are 25% air?
+*give me trivia*,Alright! Did you know koalas have fingerprints that are nearly indistinguishable from humans?
+*educate me*,Happy to help! Did you know humans share about 60% of their DNA with bananas?
+*tell me something cool*,Here’s a cool fact: The inventor of the frisbee was turned into a frisbee after he died.
+*fact time*,You got it! Did you know the dot over a lowercase "i" or "j" is called a "tittle"?
+*learn something*, Alright! Did you know an octopus has blue blood because it contains copper?
+*Fun Fact about honey*, Did you know honey never spoils? Archaeologists have found pots of honey in ancient tombs that are over 3000 years old!
+*tell me a fact about cows*, Cows have best friends and get stressed out when separated.
+*teach me something*, A day on Mercury lasts 1408 hours. Making it longer than a year on Mercury.
+*fact about animals*, A group of porcupines is called a "prickle."
+*insect fact*, Butterflies can taste with their feet.
+*facts about birds*, Ravens can imitate human speech.
+*penguin fact*, A gentoo penguin presents a pebble to a potential mate as a courtship ritual.
+*scientific fact*, Hot water freezes faster than cold water. A phenomenon called the Mpemba effect.
+*coding fact*, The first computer virus was called "Creeper" and was created in 1971. It displayed the message: "I'M THE CREEPER: CATCH ME IF YOU CAN."
+*Fact about coding*, The first computer programmer was a woman named Ada Lovelace. She wrote the first algorithm intended to be processed by a machine in the mid-1800s, long before modern computers existed.
+*animal fact*, Sea otters hold hands when they sleep to keep from drifting apart.
+*fruit fact*, Bananas are berries! But strawberries aren’t.
+*whale fact*, The heart of a blue whale weighs as much as a small car.
+*country fact*, The heart of a blue whale weighs as much as a small car.
+*pineapple fact*, Pineapples take about two years to grow from planting to harvest.
+*time fact*, A jiffy is an actual unit of time! Equaling 1/100th of a second.
+*ant fact*, Ants don’t sleep, but they do take short breaks to rest.
+*basketball fact*, LeBron James was the first player in NBA history to play with his son at the same time in the same team.
+*fact about the oscars*, Did you know Kobe Bryant is the only basketball player to win an oscar? In 2018 Bryant won the Academy Award for best animated short film.
+*comic fact*, Stan Lee made cameo appearances in almost every Marvel movie until his passing. but his first on-screen Marvel cameo was in the 1989 TV movie The Trial of the Incredible Hulk, where he appeared as a jury member in a courtroom scene.
+
+*space fact*, Did you know a teaspoon of a neutron star would weigh about six billion tons?  
+*ocean fact*, The ocean is so vast that more than 80% of it remains unexplored.  
+*dog fact*, Dogs’ noses are wet to help them absorb scent chemicals better.  
+*cat fact*, A cat’s nose print is as unique as a human fingerprint.  
+*history fact*, Cleopatra lived closer in time to the moon landing than to the construction of the Great Pyramid of Giza.  
+*bee fact*, Bees can recognize human faces! like how we recognize each other.  
+*random fact*, It takes about 50 licks to finish one scoop of ice cream.  
+*tree fact*, Some trees can live over 5000 years.  
+*chocolate fact*, White chocolate isn’t technically chocolate because it doesn’t contain cocoa solids.  
+*space fact*, The moon is moving away from Earth at a rate of about 1.5 inches per year.  
+*trivia please*, The world’s most expensive cheese is made from donkey milk and is called Pule cheese.  
+*volcano fact*, There’s an underwater volcano in the Pacific Ocean that erupts so frequently it’s nicknamed "the soda bottle."  
+*weather fact*, Lightning can strike the same place multiple times. The Empire State Building is struck about 25 times a year.  
+*tell me a fact*, Greenland is the world’s largest island that isn’t a continent.  
+*human body fact*, Your stomach gets a new lining every 3-4 days to prevent it from digesting itself.  
+*sports fact*, Golf is the only sport ever played on the moon.  
+*food fact*, Ketchup was once sold as medicine in the 1830s.  
+*bat fact*, Bats are the only mammals capable of sustained flight.  
+*train fact*, The fastest train in the world is the Shanghai Maglev! Which can reach speeds of 267 mph (430 km/h).  
+*camera fact*, The first photograph ever taken required an exposure time of 8 hours.  
+*earth fact*, Earth’s magnetic field is flipping. It happens roughly every 300k years and we’re overdue for the next flip.  
+*snail fact*, Snails can sleep for up to three years if conditions aren’t right for them.  
+*fact time*, Monarch butterflies migrate up to 3k miles each year the longest migration of any insect.  
+*money fact*, The largest denomination of U.S. currency ever printed was the $100k bill featuring Woodrow Wilson.  
+*language fact*, The sentence "The quick brown fox jumps over the lazy dog" uses every letter in the English alphabet.  
+*pencil fact*, A single pencil can draw a line about 35 miles long or write roughly 50k English words.  
+*cereal fact*, The first breakfast cereal ever invented was granola! Created in 1863.  
+*bird fact*, The Arctic Tern holds the record for the longest migration. Traveling around 44K miles annually!  
+*eye fact*, The human eye can distinguish about 10 million different colors.  
